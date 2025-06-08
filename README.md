@@ -9,3 +9,5 @@ myDiary가 없으면 Java 코드에서 자동 생성되게 한다.
 
 다음과 같이 '현재 번호/전체 번호'가 표시되고 그림이 가운데에 위치하도록 [실습 8-2]를 수정하시오. 
 ![img8-7](images/IMG_3660.JPEG)
+
+[reference](https://pitch-eel-0ef.notion.site/CHAPTER-08-20b0711f396d80bd8d26fb07372b1674?source=copy_link)
